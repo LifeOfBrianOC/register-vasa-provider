@@ -1,0 +1,1 @@
+java -cp ".;C:\Software\SDK\sms-sdk\java\JAXWS\lib/*" RegisterProvider --url https://vc01.vlab.local/sdk --username vlab\administrator --password Password123! --provUrl https://192.168.1.248/storageos-vasasvc/services/vasaService --provUsername root --provPassword Password123!
